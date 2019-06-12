@@ -1,0 +1,25 @@
+
+
+Time series Model
+Model at work
+SQL leetcode
+probability notes
+machine learning model basic concept
+deep learning basics?
+
+
+Lean Analytics
+
+
+Gradient Boosted Tree
+http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/
+https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/
+
+softmax function
+https://en.wikipedia.org/wiki/Softmax_function
+
+BiasVariance
+http://scott.fortmann-roe.com/docs/BiasVariance.html
+
+Time Series Outlier
+https://blog.statsbot.co/time-series-anomaly-detection-algorithms-1cef5519aef2
